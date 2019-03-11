@@ -1,11 +1,25 @@
-.square {
+.square-green {
     height: 100px;
     width: 100px;
     background-color: green;
 }
 
-.content {
+.square-yellow {
+    height: 100px;
+    width: 100px;
     background-color: yellow;
+}
+
+.square-red {
+    height: 100px;
+    width: 100px;
+    background-color: red;
+}
+
+
+
+.content {
+    background-color: rgba(0, 174, 255, 0.589);
     padding: 20px;
     /* Agregar codigo */
 }
