@@ -21,3 +21,7 @@
     padding: 20px;
     /* Agregar codigo */
 }
+.newClass {
+background-color: rgba(0, 174, 255, 0.589);
+padding: 20px;
+}
